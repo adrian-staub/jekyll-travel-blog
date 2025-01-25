@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.480Z</time>
+    <bounds minlat="27.836368600" minlon="98.828750600" maxlat="28.473384900" maxlon="99.703834500"/>
+  </metadata>
+  <trk>
+    <name>22_Bus Xidang - Shangri-La</name>
+    <desc>22_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>0</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="28.436275500" lon="98.828750600">
+        <ele>2352.500</ele>
+      </trkpt>
+      <trkpt lat="28.349857300" lon="98.873367300">
+        <ele>2166.500</ele>
+        <time>1970-01-01T02:17:21.721Z</time>
+      </trkpt>
+      <trkpt lat="28.379352600" lon="98.867569000">
+        <ele>2226.250</ele>
+        <time>1970-01-01T02:24:01.781Z</time>
+      </trkpt>
+      <trkpt lat="28.399810800" lon="98.892959600">
+        <ele>2382.750</ele>
+        <time>1970-01-01T02:27:59.443Z</time>
+      </trkpt>
+      <trkpt lat="28.445474600" lon="98.896606400">
+        <ele>2724.750</ele>
+        <time>1970-01-01T02:36:01.014Z</time>
+      </trkpt>
+      <trkpt lat="28.473384900" lon="98.921257000">
+        <ele>3166.250</ele>
+        <time>1970-01-01T02:43:51.879Z</time>
+      </trkpt>
+      <trkpt lat="28.412536600" lon="98.987068200">
+        <ele>3770.250</ele>
+        <time>1970-01-01T03:02:24.449Z</time>
+      </trkpt>
+      <trkpt lat="28.394323300" lon="98.989143400">
+        <ele>4056.750</ele>
+        <time>1970-01-01T03:13:00.242Z</time>
+      </trkpt>
+      <trkpt lat="28.346902800" lon="99.043914800">
+        <ele>4043.250</ele>
+        <time>1970-01-01T03:18:38.530Z</time>
+      </trkpt>
+      <trkpt lat="28.309232700" lon="99.143951400">
+        <ele>3750.500</ele>
+        <time>1970-01-01T03:31:54.332Z</time>
+      </trkpt>
+      <trkpt lat="28.311216400" lon="99.133224500">
+        <ele>3614.500</ele>
+        <time>1970-01-01T03:36:35.516Z</time>
+      </trkpt>
+      <trkpt lat="28.285934400" lon="99.192649800">
+        <ele>3213.750</ele>
+        <time>1970-01-01T03:49:00.344Z</time>
+      </trkpt>
+      <trkpt lat="28.290815400" lon="99.172271700">
+        <ele>3045.000</ele>
+        <time>1970-01-01T03:54:59.858Z</time>
+      </trkpt>
+      <trkpt lat="28.254888500" lon="99.283660900">
+        <ele>2394.750</ele>
+        <time>1970-01-01T04:28:05.019Z</time>
+      </trkpt>
+      <trkpt lat="28.245178200" lon="99.280746500">
+        <ele>2220.750</ele>
+        <time>1970-01-01T04:32:48.795Z</time>
+      </trkpt>
+      <trkpt lat="28.247463200" lon="99.303550700">
+        <ele>2053.750</ele>
+        <time>1970-01-01T04:36:56.047Z</time>
+      </trkpt>
+      <trkpt lat="28.218904500" lon="99.317527800">
+        <ele>2077.000</ele>
+        <time>1970-01-01T04:40:42.594Z</time>
+      </trkpt>
+      <trkpt lat="28.154544800" lon="99.401756300">
+        <ele>2044.250</ele>
+        <time>1970-01-01T04:53:40.436Z</time>
+      </trkpt>
+      <trkpt lat="28.128028900" lon="99.394165000">
+        <ele>2171.000</ele>
+        <time>1970-01-01T04:57:05.467Z</time>
+      </trkpt>
+      <trkpt lat="28.106859200" lon="99.417533900">
+        <ele>2303.250</ele>
+        <time>1970-01-01T05:01:30.842Z</time>
+      </trkpt>
+      <trkpt lat="28.068964000" lon="99.408218400">
+        <ele>2453.500</ele>
+        <time>1970-01-01T05:06:34.760Z</time>
+      </trkpt>
+      <trkpt lat="28.021154400" lon="99.429016100">
+        <ele>2623.500</ele>
+        <time>1970-01-01T05:13:34.123Z</time>
+      </trkpt>
+      <trkpt lat="28.039871200" lon="99.497924800">
+        <ele>2898.250</ele>
+        <time>1970-01-01T05:21:41.807Z</time>
+      </trkpt>
+      <trkpt lat="28.023265800" lon="99.534828200">
+        <ele>3035.250</ele>
+        <time>1970-01-01T05:25:50.672Z</time>
+      </trkpt>
+      <trkpt lat="27.906734500" lon="99.644905100">
+        <ele>3318.500</ele>
+        <time>1970-01-01T05:42:05.432Z</time>
+      </trkpt>
+      <trkpt lat="27.851125700" lon="99.679367100">
+        <ele>3310.500</ele>
+        <time>1970-01-01T05:47:50.158Z</time>
+      </trkpt>
+      <trkpt lat="27.836368600" lon="99.703834500">
+        <ele>3277.000</ele>
+        <time>1970-01-01T05:51:31.400Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

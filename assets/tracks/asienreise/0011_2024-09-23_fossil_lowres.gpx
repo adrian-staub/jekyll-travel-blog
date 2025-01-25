@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.345Z</time>
+    <bounds minlat="22.613193500" minlon="104.462799100" maxlat="22.709369700" maxlon="104.760978700"/>
+  </metadata>
+  <trk>
+    <name>12_Quay Homestay - Coc Pai</name>
+    <desc>12_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.613193500" lon="104.760978700">
+        <ele>1064.750</ele>
+      </trkpt>
+      <trkpt lat="22.614648800" lon="104.751228300">
+        <ele>885.750</ele>
+        <time>1970-01-01T00:07:53.933Z</time>
+      </trkpt>
+      <trkpt lat="22.632129700" lon="104.756477400">
+        <ele>828.250</ele>
+        <time>1970-01-01T00:15:23.828Z</time>
+      </trkpt>
+      <trkpt lat="22.657737700" lon="104.708984400">
+        <ele>596.750</ele>
+        <time>1970-01-01T00:37:34.169Z</time>
+      </trkpt>
+      <trkpt lat="22.640096700" lon="104.702880900">
+        <ele>608.500</ele>
+        <time>1970-01-01T00:44:38.416Z</time>
+      </trkpt>
+      <trkpt lat="22.621162400" lon="104.656127900">
+        <ele>646.750</ele>
+        <time>1970-01-01T01:01:44.305Z</time>
+      </trkpt>
+      <trkpt lat="22.626846300" lon="104.626968400">
+        <ele>933.500</ele>
+        <time>1970-01-01T01:11:41.144Z</time>
+      </trkpt>
+      <trkpt lat="22.652582200" lon="104.626274100">
+        <ele>1659.000</ele>
+        <time>1970-01-01T01:29:47.272Z</time>
+      </trkpt>
+      <trkpt lat="22.659267400" lon="104.608200100">
+        <ele>2067.500</ele>
+        <time>1970-01-01T01:40:21.275Z</time>
+      </trkpt>
+      <trkpt lat="22.697223700" lon="104.589683500">
+        <ele>1452.750</ele>
+        <time>1970-01-01T02:11:12.901Z</time>
+      </trkpt>
+      <trkpt lat="22.702343000" lon="104.522827100">
+        <ele>418.750</ele>
+        <time>1970-01-01T02:43:45.654Z</time>
+      </trkpt>
+      <trkpt lat="22.709369700" lon="104.530899000">
+        <ele>326.250</ele>
+        <time>1970-01-01T02:47:53.235Z</time>
+      </trkpt>
+      <trkpt lat="22.692859600" lon="104.462799100">
+        <ele>326.000</ele>
+        <time>1970-01-01T03:11:10.916Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.266Z</time>
+    <bounds minlat="22.665039100" minlon="106.261367800" maxlat="22.854240400" maxlon="106.767562900"/>
+  </metadata>
+  <trk>
+    <name>05_Cao Bang - Khuo Ky Stone Village</name>
+    <desc>05_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.665039100" lon="106.261367800">
+        <ele>185.750</ele>
+      </trkpt>
+      <trkpt lat="22.678230300" lon="106.275436400">
+        <ele>204.500</ele>
+        <time>1970-01-01T00:04:14.421Z</time>
+      </trkpt>
+      <trkpt lat="22.705707600" lon="106.271171600">
+        <ele>264.750</ele>
+        <time>1970-01-01T00:11:34.409Z</time>
+      </trkpt>
+      <trkpt lat="22.704198800" lon="106.325073200">
+        <ele>359.500</ele>
+        <time>1970-01-01T00:26:26.677Z</time>
+      </trkpt>
+      <trkpt lat="22.765041400" lon="106.335456800">
+        <ele>737.500</ele>
+        <time>1970-01-01T00:40:01.161Z</time>
+      </trkpt>
+      <trkpt lat="22.739135700" lon="106.333046000">
+        <ele>664.500</ele>
+        <time>1970-01-01T00:50:30.479Z</time>
+      </trkpt>
+      <trkpt lat="22.689676300" lon="106.386200000">
+        <ele>562.750</ele>
+        <time>1970-01-01T01:01:54.118Z</time>
+      </trkpt>
+      <trkpt lat="22.687227200" lon="106.438842800">
+        <ele>483.250</ele>
+        <time>1970-01-01T01:09:14.131Z</time>
+      </trkpt>
+      <trkpt lat="22.706197700" lon="106.447456400">
+        <ele>450.500</ele>
+        <time>1970-01-01T01:11:50.977Z</time>
+      </trkpt>
+      <trkpt lat="22.706119500" lon="106.473922700">
+        <ele>402.500</ele>
+        <time>1970-01-01T01:17:16.136Z</time>
+      </trkpt>
+      <trkpt lat="22.677055400" lon="106.526260400">
+        <ele>440.500</ele>
+        <time>1970-01-01T01:26:45.836Z</time>
+      </trkpt>
+      <trkpt lat="22.690057800" lon="106.554977400">
+        <ele>413.250</ele>
+        <time>1970-01-01T01:32:00.165Z</time>
+      </trkpt>
+      <trkpt lat="22.699169200" lon="106.552772500">
+        <ele>433.500</ele>
+        <time>1970-01-01T01:34:06.583Z</time>
+      </trkpt>
+      <trkpt lat="22.700819000" lon="106.634849500">
+        <ele>460.750</ele>
+        <time>1970-01-01T01:54:25.562Z</time>
+      </trkpt>
+      <trkpt lat="22.687721300" lon="106.670753500">
+        <ele>381.500</ele>
+        <time>1970-01-01T02:03:16.751Z</time>
+      </trkpt>
+      <trkpt lat="22.703287100" lon="106.681930500">
+        <ele>444.250</ele>
+        <time>1970-01-01T02:07:52.917Z</time>
+      </trkpt>
+      <trkpt lat="22.728448900" lon="106.670990000">
+        <ele>588.500</ele>
+        <time>1970-01-01T02:13:21.089Z</time>
+      </trkpt>
+      <trkpt lat="22.734500900" lon="106.709045400">
+        <ele>400.500</ele>
+        <time>1970-01-01T02:23:57.764Z</time>
+      </trkpt>
+      <trkpt lat="22.750970800" lon="106.703392000">
+        <ele>444.500</ele>
+        <time>1970-01-01T02:28:53.658Z</time>
+      </trkpt>
+      <trkpt lat="22.777063400" lon="106.745246900">
+        <ele>391.750</ele>
+        <time>1970-01-01T02:40:32.797Z</time>
+      </trkpt>
+      <trkpt lat="22.823804900" lon="106.767562900">
+        <ele>360.750</ele>
+        <time>1970-01-01T02:53:58.196Z</time>
+      </trkpt>
+      <trkpt lat="22.848962800" lon="106.733032200">
+        <ele>366.750</ele>
+        <time>1970-01-01T03:02:44.189Z</time>
+      </trkpt>
+      <trkpt lat="22.854240400" lon="106.701934800">
+        <ele>426.500</ele>
+        <time>1970-01-01T03:08:53.664Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

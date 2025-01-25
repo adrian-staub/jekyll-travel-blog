@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.334Z</time>
+    <bounds minlat="22.496105200" minlon="104.760627700" maxlat="22.801172300" maxlon="105.004394500"/>
+  </metadata>
+  <trk>
+    <name>11_Ha Giang - Quay Homestay</name>
+    <desc>11_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.782787300" lon="104.975738500">
+        <ele>143.500</ele>
+      </trkpt>
+      <trkpt lat="22.801172300" lon="104.977844200">
+        <ele>104.750</ele>
+        <time>1970-01-01T00:04:12.975Z</time>
+      </trkpt>
+      <trkpt lat="22.769365300" lon="105.004394500">
+        <ele>101.750</ele>
+        <time>1970-01-01T00:10:33.904Z</time>
+      </trkpt>
+      <trkpt lat="22.711978900" lon="104.967689500">
+        <ele>104.250</ele>
+        <time>1970-01-01T00:19:00.347Z</time>
+      </trkpt>
+      <trkpt lat="22.653459500" lon="104.989135700">
+        <ele>85.500</ele>
+        <time>1970-01-01T00:26:16.605Z</time>
+      </trkpt>
+      <trkpt lat="22.625677100" lon="104.948524500">
+        <ele>93.000</ele>
+        <time>1970-01-01T00:32:25.176Z</time>
+      </trkpt>
+      <trkpt lat="22.496105200" lon="104.875083900">
+        <ele>71.750</ele>
+        <time>1970-01-01T00:52:12.626Z</time>
+      </trkpt>
+      <trkpt lat="22.502718000" lon="104.847747800">
+        <ele>101.000</ele>
+        <time>1970-01-01T01:01:11.932Z</time>
+      </trkpt>
+      <trkpt lat="22.536470400" lon="104.832168600">
+        <ele>602.000</ele>
+        <time>1970-01-01T01:15:52.896Z</time>
+      </trkpt>
+      <trkpt lat="22.607942600" lon="104.760627700">
+        <ele>835.500</ele>
+        <time>1970-01-01T02:00:55.774Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

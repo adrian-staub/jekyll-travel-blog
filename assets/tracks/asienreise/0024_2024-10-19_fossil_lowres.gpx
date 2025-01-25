@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.530Z</time>
+    <bounds minlat="21.446239500" minlon="103.012268100" maxlat="22.353290600" maxlon="103.248275800"/>
+  </metadata>
+  <trk>
+    <name>25_Sinh Ho - Dien Bien Phu</name>
+    <desc>25_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.353290600" lon="103.248275800">
+        <ele>1532.750</ele>
+      </trkpt>
+      <trkpt lat="22.241306300" lon="103.237266500">
+        <ele>1517.250</ele>
+        <time>1970-01-01T00:24:01.726Z</time>
+      </trkpt>
+      <trkpt lat="22.215036400" lon="103.245887800">
+        <ele>1326.250</ele>
+        <time>1970-01-01T00:34:01.005Z</time>
+      </trkpt>
+      <trkpt lat="22.221250500" lon="103.228073100">
+        <ele>919.250</ele>
+        <time>1970-01-01T00:47:06.862Z</time>
+      </trkpt>
+      <trkpt lat="22.206579200" lon="103.173568700">
+        <ele>295.500</ele>
+        <time>1970-01-01T01:07:06.382Z</time>
+      </trkpt>
+      <trkpt lat="22.129497500" lon="103.193786600">
+        <ele>235.750</ele>
+        <time>1970-01-01T01:25:16.354Z</time>
+      </trkpt>
+      <trkpt lat="22.087526300" lon="103.167434700">
+        <ele>231.500</ele>
+        <time>1970-01-01T01:36:51.839Z</time>
+      </trkpt>
+      <trkpt lat="21.882535900" lon="103.133903500">
+        <ele>708.000</ele>
+        <time>1970-01-01T02:24:54.916Z</time>
+      </trkpt>
+      <trkpt lat="21.695711100" lon="103.082664500">
+        <ele>367.750</ele>
+        <time>1970-01-01T03:15:44.397Z</time>
+      </trkpt>
+      <trkpt lat="21.602670700" lon="103.023986800">
+        <ele>408.750</ele>
+        <time>1970-01-01T03:37:46.197Z</time>
+      </trkpt>
+      <trkpt lat="21.543729800" lon="103.012268100">
+        <ele>488.000</ele>
+        <time>1970-01-01T03:50:30.616Z</time>
+      </trkpt>
+      <trkpt lat="21.475772900" lon="103.025733900">
+        <ele>765.000</ele>
+        <time>1970-01-01T04:06:17.921Z</time>
+      </trkpt>
+      <trkpt lat="21.489345600" lon="103.049629200">
+        <ele>880.750</ele>
+        <time>1970-01-01T04:20:08.303Z</time>
+      </trkpt>
+      <trkpt lat="21.481203100" lon="103.065620400">
+        <ele>792.750</ele>
+        <time>1970-01-01T04:28:24.424Z</time>
+      </trkpt>
+      <trkpt lat="21.500473000" lon="103.120590200">
+        <ele>830.500</ele>
+        <time>1970-01-01T04:40:08.195Z</time>
+      </trkpt>
+      <trkpt lat="21.493307100" lon="103.141601600">
+        <ele>898.500</ele>
+        <time>1970-01-01T04:45:26.152Z</time>
+      </trkpt>
+      <trkpt lat="21.446239500" lon="103.138580300">
+        <ele>951.750</ele>
+        <time>1970-01-01T04:58:30.619Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

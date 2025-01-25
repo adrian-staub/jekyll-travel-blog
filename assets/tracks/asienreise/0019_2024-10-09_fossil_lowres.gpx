@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.458Z</time>
+    <bounds minlat="27.190359100" minlon="99.004516600" maxlat="27.665166900" maxlon="99.283172600"/>
+  </metadata>
+  <trk>
+    <name>20_Bus Lijiang - Tongle (unten)</name>
+    <desc>20_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>0</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="27.190359100" lon="99.283172600">
+        <ele>2188.250</ele>
+      </trkpt>
+      <trkpt lat="27.280012100" lon="99.194229100">
+        <ele>1971.750</ele>
+        <time>1970-01-01T00:19:53.878Z</time>
+      </trkpt>
+      <trkpt lat="27.285926800" lon="99.170105000">
+        <ele>1927.500</ele>
+        <time>1970-01-01T00:23:14.845Z</time>
+      </trkpt>
+      <trkpt lat="27.314582800" lon="99.162979100">
+        <ele>1861.750</ele>
+        <time>1970-01-01T00:27:15.476Z</time>
+      </trkpt>
+      <trkpt lat="27.358161900" lon="99.117752100">
+        <ele>1757.750</ele>
+        <time>1970-01-01T00:36:18.820Z</time>
+      </trkpt>
+      <trkpt lat="27.353578600" lon="99.096107500">
+        <ele>1761.250</ele>
+        <time>1970-01-01T00:39:27.804Z</time>
+      </trkpt>
+      <trkpt lat="27.520875900" lon="99.015861500">
+        <ele>1757.250</ele>
+        <time>1970-01-01T01:07:19.334Z</time>
+      </trkpt>
+      <trkpt lat="27.542732200" lon="99.037895200">
+        <ele>1775.000</ele>
+        <time>1970-01-01T01:10:58.248Z</time>
+      </trkpt>
+      <trkpt lat="27.582634000" lon="99.034858700">
+        <ele>1778.000</ele>
+        <time>1970-01-01T01:15:33.229Z</time>
+      </trkpt>
+      <trkpt lat="27.581712700" lon="99.024086000">
+        <ele>1754.250</ele>
+        <time>1970-01-01T01:17:16.387Z</time>
+      </trkpt>
+      <trkpt lat="27.621389400" lon="99.020416300">
+        <ele>1755.000</ele>
+        <time>1970-01-01T01:22:30.917Z</time>
+      </trkpt>
+      <trkpt lat="27.638736700" lon="99.004516600">
+        <ele>1765.000</ele>
+        <time>1970-01-01T01:25:20.245Z</time>
+      </trkpt>
+      <trkpt lat="27.659812900" lon="99.010231000">
+        <ele>1754.250</ele>
+        <time>1970-01-01T01:28:07.149Z</time>
+      </trkpt>
+      <trkpt lat="27.665166900" lon="99.031906100">
+        <ele>1755.500</ele>
+        <time>1970-01-01T01:30:45.760Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

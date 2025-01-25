@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.431Z</time>
+    <bounds minlat="26.873086900" minlon="100.168914800" maxlat="27.316169700" maxlon="100.280891400"/>
+  </metadata>
+  <trk>
+    <name>18_Bus Gorge - Lijiang</name>
+    <desc>18_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>0</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="27.264257400" lon="100.168914800">
+        <ele>2030.250</ele>
+      </trkpt>
+      <trkpt lat="27.316169700" lon="100.213081400">
+        <ele>1797.500</ele>
+        <time>1970-01-01T00:13:25.825Z</time>
+      </trkpt>
+      <trkpt lat="27.307523700" lon="100.244178800">
+        <ele>1711.000</ele>
+        <time>1970-01-01T00:18:21.825Z</time>
+      </trkpt>
+      <trkpt lat="27.270181700" lon="100.280891400">
+        <ele>1851.000</ele>
+        <time>1970-01-01T00:30:20.489Z</time>
+      </trkpt>
+      <trkpt lat="27.253707900" lon="100.274490400">
+        <ele>2366.250</ele>
+        <time>1970-01-01T00:44:20.139Z</time>
+      </trkpt>
+      <trkpt lat="27.259046600" lon="100.266090400">
+        <ele>2494.500</ele>
+        <time>1970-01-01T00:47:43.822Z</time>
+      </trkpt>
+      <trkpt lat="27.232778500" lon="100.258049000">
+        <ele>2933.000</ele>
+        <time>1970-01-01T00:59:43.313Z</time>
+      </trkpt>
+      <trkpt lat="27.204910300" lon="100.277252200">
+        <ele>3133.750</ele>
+        <time>1970-01-01T01:12:33.993Z</time>
+      </trkpt>
+      <trkpt lat="27.155632000" lon="100.268463100">
+        <ele>3120.000</ele>
+        <time>1970-01-01T01:30:56.401Z</time>
+      </trkpt>
+      <trkpt lat="27.147363700" lon="100.250038100">
+        <ele>2820.500</ele>
+        <time>1970-01-01T01:44:01.448Z</time>
+      </trkpt>
+      <trkpt lat="27.132387200" lon="100.262847900">
+        <ele>2921.500</ele>
+        <time>1970-01-01T01:49:24.581Z</time>
+      </trkpt>
+      <trkpt lat="27.129859900" lon="100.242446900">
+        <ele>2912.250</ele>
+        <time>1970-01-01T01:53:08.992Z</time>
+      </trkpt>
+      <trkpt lat="27.080759000" lon="100.264884900">
+        <ele>3085.500</ele>
+        <time>1970-01-01T02:01:08.874Z</time>
+      </trkpt>
+      <trkpt lat="26.994010900" lon="100.238472000">
+        <ele>2594.250</ele>
+        <time>1970-01-01T02:10:39.863Z</time>
+      </trkpt>
+      <trkpt lat="26.873086900" lon="100.226928700">
+        <ele>2417.000</ele>
+        <time>1970-01-01T02:20:45.793Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,25 +1,20 @@
 ## Example configuration - your general config goes here
-title: jekyll-travel-blog Live Preview
-author: Simon Greuter
-github_username: greuters
-contact_form_action: https://formspree.io/f/xlddoyye
-languages: ["en", "de"]
-baseurl: /jekyll-travel-blog
+title: Adrians Reiseblog
+author: Adrian Staub
+languages: ["de"]
+default_lang: "de"
 
 navigation_urls:
-  - /world-tour/
-  - /contact/
+  - /asienreise/
+  - /kontakt/
 
 exclude:
-  - README.md
   - LICENSE.txt
   - package.json
   - package-lock.json
   - webpack
-  - original_icons
   - init_blog.sh
   - convert_tracks.py
-  - screenshot.png
 
 ## Default configuration - only adapt below if you know what you are doing
 

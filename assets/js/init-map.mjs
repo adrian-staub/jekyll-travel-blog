@@ -16,7 +16,7 @@ class MapManager {
 
     constructor(map, lowresTrackArchive, trackData, postHtmls, devMode) {
         this.intervalId = null;
-        this.animationDelay = 100; // [ms]
+        this.animationDelay = 200; // [ms]
         this.currentTrackIdx = 0;
         this.map = map;
 

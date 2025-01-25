@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.318Z</time>
+    <bounds minlat="22.783037200" minlon="104.956237800" maxlat="23.067266500" maxlon="105.024437000"/>
+  </metadata>
+  <trk>
+    <name>10_Dien Bien - Rice Field Ha Giang</name>
+    <desc>10_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="23.052461600" lon="105.024437000">
+        <ele>747.500</ele>
+      </trkpt>
+      <trkpt lat="23.067266500" lon="104.997390700">
+        <ele>872.750</ele>
+        <time>1970-01-01T00:05:14.098Z</time>
+      </trkpt>
+      <trkpt lat="23.041034700" lon="104.993446400">
+        <ele>1009.750</ele>
+        <time>1970-01-01T00:18:12.280Z</time>
+      </trkpt>
+      <trkpt lat="23.007652300" lon="104.956237800">
+        <ele>818.000</ele>
+        <time>1970-01-01T00:27:30.851Z</time>
+      </trkpt>
+      <trkpt lat="22.983812300" lon="104.968429600">
+        <ele>687.000</ele>
+        <time>1970-01-01T00:35:05.273Z</time>
+      </trkpt>
+      <trkpt lat="22.980468800" lon="104.995895400">
+        <ele>491.750</ele>
+        <time>1970-01-01T00:42:49.383Z</time>
+      </trkpt>
+      <trkpt lat="22.911901500" lon="105.007843000">
+        <ele>128.500</ele>
+        <time>1970-01-01T01:01:40.701Z</time>
+      </trkpt>
+      <trkpt lat="22.908014300" lon="104.999015800">
+        <ele>144.250</ele>
+        <time>1970-01-01T01:04:20.205Z</time>
+      </trkpt>
+      <trkpt lat="22.851671200" lon="105.013099700">
+        <ele>111.000</ele>
+        <time>1970-01-01T01:16:36.005Z</time>
+      </trkpt>
+      <trkpt lat="22.833347300" lon="104.987358100">
+        <ele>106.250</ele>
+        <time>1970-01-01T01:22:30.223Z</time>
+      </trkpt>
+      <trkpt lat="22.783037200" lon="104.975288400">
+        <ele>142.750</ele>
+        <time>1970-01-01T01:31:58.909Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

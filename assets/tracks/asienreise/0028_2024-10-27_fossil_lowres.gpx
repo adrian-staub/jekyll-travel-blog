@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.595Z</time>
+    <bounds minlat="16.634567300" minlon="106.233726500" maxlat="17.648620600" maxlon="106.748924300"/>
+  </metadata>
+  <trk>
+    <name>29_Phong Na - Retro Khe san</name>
+    <desc>29_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="17.610103600" lon="106.310478200">
+        <ele>7.750</ele>
+      </trkpt>
+      <trkpt lat="17.620885800" lon="106.312950100">
+        <ele>14.250</ele>
+        <time>1970-01-01T00:02:58.924Z</time>
+      </trkpt>
+      <trkpt lat="17.648620600" lon="106.265144300">
+        <ele>16.500</ele>
+        <time>1970-01-01T00:10:03.577Z</time>
+      </trkpt>
+      <trkpt lat="17.608240100" lon="106.265274000">
+        <ele>20.250</ele>
+        <time>1970-01-01T00:17:14.260Z</time>
+      </trkpt>
+      <trkpt lat="17.544733000" lon="106.233726500">
+        <ele>102.000</ele>
+        <time>1970-01-01T00:28:17.287Z</time>
+      </trkpt>
+      <trkpt lat="17.518379200" lon="106.273727400">
+        <ele>62.000</ele>
+        <time>1970-01-01T00:36:56.718Z</time>
+      </trkpt>
+      <trkpt lat="17.522508600" lon="106.294281000">
+        <ele>91.750</ele>
+        <time>1970-01-01T00:41:02.405Z</time>
+      </trkpt>
+      <trkpt lat="17.503278700" lon="106.288490300">
+        <ele>124.500</ele>
+        <time>1970-01-01T00:45:27.803Z</time>
+      </trkpt>
+      <trkpt lat="17.475006100" lon="106.334106400">
+        <ele>616.000</ele>
+        <time>1970-01-01T01:04:36.780Z</time>
+      </trkpt>
+      <trkpt lat="17.482965500" lon="106.328880300">
+        <ele>526.750</ele>
+        <time>1970-01-01T01:08:14.466Z</time>
+      </trkpt>
+      <trkpt lat="17.490312600" lon="106.372924800">
+        <ele>808.500</ele>
+        <time>1970-01-01T01:24:58.761Z</time>
+      </trkpt>
+      <trkpt lat="17.411386500" lon="106.397338900">
+        <ele>474.500</ele>
+        <time>1970-01-01T01:50:45.284Z</time>
+      </trkpt>
+      <trkpt lat="17.416788100" lon="106.405204800">
+        <ele>433.750</ele>
+        <time>1970-01-01T01:54:11.117Z</time>
+      </trkpt>
+      <trkpt lat="17.346565200" lon="106.421043400">
+        <ele>131.000</ele>
+        <time>1970-01-01T02:19:51.241Z</time>
+      </trkpt>
+      <trkpt lat="17.321233700" lon="106.451507600">
+        <ele>104.250</ele>
+        <time>1970-01-01T02:33:47.312Z</time>
+      </trkpt>
+      <trkpt lat="17.259502400" lon="106.442695600">
+        <ele>99.250</ele>
+        <time>1970-01-01T02:54:38.617Z</time>
+      </trkpt>
+      <trkpt lat="17.235199000" lon="106.460502600">
+        <ele>37.750</ele>
+        <time>1970-01-01T03:00:15.105Z</time>
+      </trkpt>
+      <trkpt lat="17.229444500" lon="106.448478700">
+        <ele>83.750</ele>
+        <time>1970-01-01T03:02:13.806Z</time>
+      </trkpt>
+      <trkpt lat="17.150678600" lon="106.500869800">
+        <ele>78.000</ele>
+        <time>1970-01-01T03:19:48.065Z</time>
+      </trkpt>
+      <trkpt lat="17.114509600" lon="106.497077900">
+        <ele>75.000</ele>
+        <time>1970-01-01T03:29:37.573Z</time>
+      </trkpt>
+      <trkpt lat="17.070926700" lon="106.631874100">
+        <ele>134.500</ele>
+        <time>1970-01-01T03:55:06.623Z</time>
+      </trkpt>
+      <trkpt lat="16.998748800" lon="106.646209700">
+        <ele>152.500</ele>
+        <time>1970-01-01T04:13:10.251Z</time>
+      </trkpt>
+      <trkpt lat="16.959487900" lon="106.582679700">
+        <ele>707.000</ele>
+        <time>1970-01-01T04:37:06.515Z</time>
+      </trkpt>
+      <trkpt lat="16.860038800" lon="106.567123400">
+        <ele>561.750</ele>
+        <time>1970-01-01T05:10:35.869Z</time>
+      </trkpt>
+      <trkpt lat="16.846685400" lon="106.583351100">
+        <ele>635.000</ele>
+        <time>1970-01-01T05:14:08.026Z</time>
+      </trkpt>
+      <trkpt lat="16.804678000" lon="106.563865700">
+        <ele>958.000</ele>
+        <time>1970-01-01T05:30:35.384Z</time>
+      </trkpt>
+      <trkpt lat="16.791082400" lon="106.599212600">
+        <ele>1018.000</ele>
+        <time>1970-01-01T05:45:30.483Z</time>
+      </trkpt>
+      <trkpt lat="16.767177600" lon="106.570755000">
+        <ele>567.000</ele>
+        <time>1970-01-01T06:00:23.996Z</time>
+      </trkpt>
+      <trkpt lat="16.749366800" lon="106.572364800">
+        <ele>576.000</ele>
+        <time>1970-01-01T06:06:16.776Z</time>
+      </trkpt>
+      <trkpt lat="16.715854600" lon="106.666648900">
+        <ele>535.000</ele>
+        <time>1970-01-01T06:25:19.765Z</time>
+      </trkpt>
+      <trkpt lat="16.634567300" lon="106.748924300">
+        <ele>361.750</ele>
+        <time>1970-01-01T06:45:48.094Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

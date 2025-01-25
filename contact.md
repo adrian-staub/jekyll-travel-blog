@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contact
+title: Kontakt
 permalink: /contact/
-lang: en
+lang: de
 ---
 
 {% include contact.html %}

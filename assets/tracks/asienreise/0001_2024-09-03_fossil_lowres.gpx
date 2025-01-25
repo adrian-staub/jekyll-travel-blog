@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.240Z</time>
+    <bounds minlat="21.067310300" minlon="105.743644700" maxlat="21.668909100" maxlon="105.873596200"/>
+  </metadata>
+  <trk>
+    <name>02_Hanoi - Thai Nguyen</name>
+    <desc>02_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="21.067310300" lon="105.810134900">
+        <ele>13.750</ele>
+      </trkpt>
+      <trkpt lat="21.104669600" lon="105.826118500">
+        <ele>10.000</ele>
+        <time>1970-01-01T00:05:53.026Z</time>
+      </trkpt>
+      <trkpt lat="21.163034400" lon="105.819534300">
+        <ele>13.500</ele>
+        <time>1970-01-01T00:11:32.824Z</time>
+      </trkpt>
+      <trkpt lat="21.325780900" lon="105.873596200">
+        <ele>12.750</ele>
+        <time>1970-01-01T00:32:57.549Z</time>
+      </trkpt>
+      <trkpt lat="21.448099100" lon="105.861488300">
+        <ele>25.250</ele>
+        <time>1970-01-01T00:49:13.932Z</time>
+      </trkpt>
+      <trkpt lat="21.506946600" lon="105.870651200">
+        <ele>33.750</ele>
+        <time>1970-01-01T00:56:52.010Z</time>
+      </trkpt>
+      <trkpt lat="21.540945100" lon="105.831848100">
+        <ele>31.000</ele>
+        <time>1970-01-01T01:02:03.835Z</time>
+      </trkpt>
+      <trkpt lat="21.620206800" lon="105.790748600">
+        <ele>44.250</ele>
+        <time>1970-01-01T01:10:16.213Z</time>
+      </trkpt>
+      <trkpt lat="21.651144000" lon="105.748214700">
+        <ele>49.750</ele>
+        <time>1970-01-01T01:17:28.338Z</time>
+      </trkpt>
+      <trkpt lat="21.668909100" lon="105.743644700">
+        <ele>37.500</ele>
+        <time>1970-01-01T01:21:16.466Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

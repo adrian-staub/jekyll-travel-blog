@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.371Z</time>
+    <bounds minlat="22.534582100" minlon="104.134643600" maxlat="22.816530200" maxlon="104.324600200"/>
+  </metadata>
+  <trk>
+    <name>14_Bac Ha - Muong Kuong</name>
+    <desc>14_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.534582100" lon="104.294181800">
+        <ele>909.250</ele>
+      </trkpt>
+      <trkpt lat="22.564476000" lon="104.320098900">
+        <ele>1194.750</ele>
+        <time>1970-01-01T00:09:33.432Z</time>
+      </trkpt>
+      <trkpt lat="22.591449700" lon="104.324600200">
+        <ele>1333.500</ele>
+        <time>1970-01-01T00:18:08.522Z</time>
+      </trkpt>
+      <trkpt lat="22.617200900" lon="104.310035700">
+        <ele>1262.000</ele>
+        <time>1970-01-01T00:25:30.120Z</time>
+      </trkpt>
+      <trkpt lat="22.691101100" lon="104.303123500">
+        <ele>1172.250</ele>
+        <time>1970-01-01T00:42:05.595Z</time>
+      </trkpt>
+      <trkpt lat="22.699644100" lon="104.284530600">
+        <ele>1105.500</ele>
+        <time>1970-01-01T00:46:38.064Z</time>
+      </trkpt>
+      <trkpt lat="22.680078500" lon="104.229332000">
+        <ele>577.250</ele>
+        <time>1970-01-01T01:01:33.594Z</time>
+      </trkpt>
+      <trkpt lat="22.695016900" lon="104.217918400">
+        <ele>482.000</ele>
+        <time>1970-01-01T01:07:34.011Z</time>
+      </trkpt>
+      <trkpt lat="22.721469900" lon="104.226089500">
+        <ele>202.250</ele>
+        <time>1970-01-01T01:16:30.940Z</time>
+      </trkpt>
+      <trkpt lat="22.712728500" lon="104.230018600">
+        <ele>392.250</ele>
+        <time>1970-01-01T01:20:15.154Z</time>
+      </trkpt>
+      <trkpt lat="22.742137900" lon="104.256645200">
+        <ele>596.250</ele>
+        <time>1970-01-01T01:28:44.730Z</time>
+      </trkpt>
+      <trkpt lat="22.748687700" lon="104.238472000">
+        <ele>1011.500</ele>
+        <time>1970-01-01T01:36:28.246Z</time>
+      </trkpt>
+      <trkpt lat="22.816530200" lon="104.243072500">
+        <ele>1225.500</ele>
+        <time>1970-01-01T01:56:55.732Z</time>
+      </trkpt>
+      <trkpt lat="22.760736500" lon="104.134643600">
+        <ele>752.000</ele>
+        <time>1970-01-01T02:32:35.606Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

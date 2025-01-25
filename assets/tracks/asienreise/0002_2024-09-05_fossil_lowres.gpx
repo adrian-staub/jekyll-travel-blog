@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.248Z</time>
+    <bounds minlat="21.668392200" minlon="105.563835100" maxlat="22.402782400" maxlon="105.743972800"/>
+  </metadata>
+  <trk>
+    <name>03_Thai Nguyen - Ba Be Lake</name>
+    <desc>03_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="21.668392200" lon="105.743972800">
+        <ele>35.500</ele>
+      </trkpt>
+      <trkpt lat="21.744947400" lon="105.704032900">
+        <ele>58.000</ele>
+        <time>1970-01-01T00:13:50.590Z</time>
+      </trkpt>
+      <trkpt lat="21.763843500" lon="105.711937000">
+        <ele>67.000</ele>
+        <time>1970-01-01T00:16:31.325Z</time>
+      </trkpt>
+      <trkpt lat="21.801357300" lon="105.700584400">
+        <ele>104.750</ele>
+        <time>1970-01-01T00:22:39Z</time>
+      </trkpt>
+      <trkpt lat="21.836788200" lon="105.635940600">
+        <ele>123.000</ele>
+        <time>1970-01-01T00:37:18.093Z</time>
+      </trkpt>
+      <trkpt lat="21.888416300" lon="105.631416300">
+        <ele>92.000</ele>
+        <time>1970-01-01T00:46:48.779Z</time>
+      </trkpt>
+      <trkpt lat="21.908304200" lon="105.642875700">
+        <ele>95.750</ele>
+        <time>1970-01-01T00:49:40.437Z</time>
+      </trkpt>
+      <trkpt lat="21.954752000" lon="105.638778700">
+        <ele>122.500</ele>
+        <time>1970-01-01T00:59:01.330Z</time>
+      </trkpt>
+      <trkpt lat="21.977773700" lon="105.605705300">
+        <ele>176.500</ele>
+        <time>1970-01-01T01:08:17.849Z</time>
+      </trkpt>
+      <trkpt lat="22.019708600" lon="105.587028500">
+        <ele>262.250</ele>
+        <time>1970-01-01T01:21:32.445Z</time>
+      </trkpt>
+      <trkpt lat="22.058672000" lon="105.588630700">
+        <ele>262.000</ele>
+        <time>1970-01-01T01:32:05.736Z</time>
+      </trkpt>
+      <trkpt lat="22.114246400" lon="105.563835100">
+        <ele>325.250</ele>
+        <time>1970-01-01T01:50:23.737Z</time>
+      </trkpt>
+      <trkpt lat="22.218542100" lon="105.585350000">
+        <ele>493.250</ele>
+        <time>1970-01-01T02:11:30.463Z</time>
+      </trkpt>
+      <trkpt lat="22.255926100" lon="105.565109300">
+        <ele>306.750</ele>
+        <time>1970-01-01T02:21:00.111Z</time>
+      </trkpt>
+      <trkpt lat="22.278841000" lon="105.583259600">
+        <ele>270.250</ele>
+        <time>1970-01-01T02:27:19.257Z</time>
+      </trkpt>
+      <trkpt lat="22.314210900" lon="105.571838400">
+        <ele>241.750</ele>
+        <time>1970-01-01T02:36:14.345Z</time>
+      </trkpt>
+      <trkpt lat="22.336713800" lon="105.591033900">
+        <ele>223.750</ele>
+        <time>1970-01-01T02:41:56.563Z</time>
+      </trkpt>
+      <trkpt lat="22.366090800" lon="105.592575100">
+        <ele>211.250</ele>
+        <time>1970-01-01T02:47:41.956Z</time>
+      </trkpt>
+      <trkpt lat="22.402782400" lon="105.619346600">
+        <ele>155.000</ele>
+        <time>1970-01-01T02:55:24.590Z</time>
+      </trkpt>
+      <trkpt lat="22.389972700" lon="105.634475700">
+        <ele>170.000</ele>
+        <time>1970-01-01T03:00:06.332Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

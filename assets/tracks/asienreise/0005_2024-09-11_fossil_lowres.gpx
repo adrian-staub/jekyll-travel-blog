@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.276Z</time>
+    <bounds minlat="22.817495300" minlon="106.052200300" maxlat="22.980690000" maxlon="106.701149000"/>
+  </metadata>
+  <trk>
+    <name>06_Khuo Ky - Pac Bo</name>
+    <desc>06_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.854370100" lon="106.701149000">
+        <ele>420.000</ele>
+      </trkpt>
+      <trkpt lat="22.817495300" lon="106.610412600">
+        <ele>470.250</ele>
+        <time>1970-01-01T00:19:50.384Z</time>
+      </trkpt>
+      <trkpt lat="22.838869100" lon="106.475387600">
+        <ele>564.250</ele>
+        <time>1970-01-01T00:40:11.718Z</time>
+      </trkpt>
+      <trkpt lat="22.823732400" lon="106.420181300">
+        <ele>625.750</ele>
+        <time>1970-01-01T00:51:46.112Z</time>
+      </trkpt>
+      <trkpt lat="22.827463200" lon="106.369529700">
+        <ele>649.250</ele>
+        <time>1970-01-01T01:01:04.891Z</time>
+      </trkpt>
+      <trkpt lat="22.849384300" lon="106.339149500">
+        <ele>719.750</ele>
+        <time>1970-01-01T01:06:57.744Z</time>
+      </trkpt>
+      <trkpt lat="22.833599100" lon="106.334503200">
+        <ele>680.750</ele>
+        <time>1970-01-01T01:09:50.496Z</time>
+      </trkpt>
+      <trkpt lat="22.831893900" lon="106.313346900">
+        <ele>652.000</ele>
+        <time>1970-01-01T01:14:04.088Z</time>
+      </trkpt>
+      <trkpt lat="22.923038500" lon="106.202163700">
+        <ele>855.750</ele>
+        <time>1970-01-01T01:34:49.323Z</time>
+      </trkpt>
+      <trkpt lat="22.920591400" lon="106.127334600">
+        <ele>814.000</ele>
+        <time>1970-01-01T01:47:05.513Z</time>
+      </trkpt>
+      <trkpt lat="22.980690000" lon="106.052200300">
+        <ele>344.000</ele>
+        <time>1970-01-01T02:14:09.983Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

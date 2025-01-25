@@ -1,7 +1,4 @@
 {
-  "config": {
-    "baseurl": "/jekyll-travel-blog"
-  },
   "scripts": {
     "clean": "bundle exec jekyll clean && bundle clean",
     "build": "webpack --mode=production && JEKYLL_ENV=production bundle exec jekyll build",

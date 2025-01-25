@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.311Z</time>
+    <bounds minlat="22.973037700" minlon="105.028114300" maxlat="23.259410900" maxlon="105.235603300"/>
+  </metadata>
+  <trk>
+    <name>09_Hmong - Dien Bien Homstay (Loop)</name>
+    <desc>09_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="23.259410900" lon="105.210578900">
+        <ele>1578.750</ele>
+      </trkpt>
+      <trkpt lat="23.255922300" lon="105.190414400">
+        <ele>1404.750</ele>
+        <time>1970-01-01T00:06:57.664Z</time>
+      </trkpt>
+      <trkpt lat="23.178731900" lon="105.199165300">
+        <ele>1102.750</ele>
+        <time>1970-01-01T00:28:09.602Z</time>
+      </trkpt>
+      <trkpt lat="23.130741100" lon="105.168060300">
+        <ele>592.750</ele>
+        <time>1970-01-01T00:45:49.466Z</time>
+      </trkpt>
+      <trkpt lat="23.064306300" lon="105.235603300">
+        <ele>268.000</ele>
+        <time>1970-01-01T01:08:56.516Z</time>
+      </trkpt>
+      <trkpt lat="23.038591400" lon="105.201217700">
+        <ele>642.000</ele>
+        <time>1970-01-01T01:25:59.069Z</time>
+      </trkpt>
+      <trkpt lat="22.991476100" lon="105.219764700">
+        <ele>677.000</ele>
+        <time>1970-01-01T01:52:22.474Z</time>
+      </trkpt>
+      <trkpt lat="22.973037700" lon="105.148231500">
+        <ele>814.500</ele>
+        <time>1970-01-01T02:03:01.214Z</time>
+      </trkpt>
+      <trkpt lat="22.979093600" lon="105.089050300">
+        <ele>688.000</ele>
+        <time>1970-01-01T02:25:31.015Z</time>
+      </trkpt>
+      <trkpt lat="23.052253700" lon="105.028114300">
+        <ele>681.750</ele>
+        <time>1970-01-01T02:57:40.767Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

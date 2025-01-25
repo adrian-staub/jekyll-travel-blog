@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.421Z</time>
+    <bounds minlat="27.179506300" minlon="100.075691200" maxlat="27.272571600" maxlon="100.168914800"/>
+  </metadata>
+  <trk>
+    <name>17_Wanderung tiger leaping Gorge 2d</name>
+    <desc>17_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>hiking</locus:activity>
+      <locus:rteComputeType>10</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="27.264257400" lon="100.168914800">
+        <ele>2030.250</ele>
+      </trkpt>
+      <trkpt lat="27.272571600" lon="100.162803600">
+        <ele>2353.000</ele>
+        <time>1970-01-01T01:01:30.323Z</time>
+      </trkpt>
+      <trkpt lat="27.193618800" lon="100.104736300">
+        <ele>2507.250</ele>
+        <time>1970-01-01T08:28:06.852Z</time>
+      </trkpt>
+      <trkpt lat="27.179506300" lon="100.075691200">
+        <ele>2287.250</ele>
+        <time>1970-01-01T10:41:11.582Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

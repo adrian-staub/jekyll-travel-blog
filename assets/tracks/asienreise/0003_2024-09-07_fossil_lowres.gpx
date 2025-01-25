@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.258Z</time>
+    <bounds minlat="22.383298900" minlon="105.627540600" maxlat="22.676294300" maxlon="106.253349300"/>
+  </metadata>
+  <trk>
+    <name>04_BaBe Lake - Cao Bang</name>
+    <desc>04_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.389957400" lon="105.634529100">
+        <ele>169.500</ele>
+      </trkpt>
+      <trkpt lat="22.407680500" lon="105.627540600">
+        <ele>199.250</ele>
+        <time>1970-01-01T00:07:24.020Z</time>
+      </trkpt>
+      <trkpt lat="22.454958000" lon="105.677322400">
+        <ele>171.750</ele>
+        <time>1970-01-01T00:21:09.287Z</time>
+      </trkpt>
+      <trkpt lat="22.458587600" lon="105.753135700">
+        <ele>215.500</ele>
+        <time>1970-01-01T00:35:16.948Z</time>
+      </trkpt>
+      <trkpt lat="22.443538700" lon="105.838783300">
+        <ele>271.250</ele>
+        <time>1970-01-01T01:00:19.179Z</time>
+      </trkpt>
+      <trkpt lat="22.384773300" lon="105.891868600">
+        <ele>233.500</ele>
+        <time>1970-01-01T01:20:13.651Z</time>
+      </trkpt>
+      <trkpt lat="22.383298900" lon="105.921745300">
+        <ele>294.250</ele>
+        <time>1970-01-01T01:28:19.061Z</time>
+      </trkpt>
+      <trkpt lat="22.418369300" lon="105.953468300">
+        <ele>793.000</ele>
+        <time>1970-01-01T01:43:44.503Z</time>
+      </trkpt>
+      <trkpt lat="22.417892500" lon="106.005439800">
+        <ele>491.250</ele>
+        <time>1970-01-01T01:55:32.849Z</time>
+      </trkpt>
+      <trkpt lat="22.448871600" lon="106.039329500">
+        <ele>659.250</ele>
+        <time>1970-01-01T02:08:04.290Z</time>
+      </trkpt>
+      <trkpt lat="22.483053200" lon="106.052192700">
+        <ele>442.000</ele>
+        <time>1970-01-01T02:17:42.392Z</time>
+      </trkpt>
+      <trkpt lat="22.491165200" lon="106.070037800">
+        <ele>508.500</ele>
+        <time>1970-01-01T02:23:32.080Z</time>
+      </trkpt>
+      <trkpt lat="22.517625800" lon="106.069778400">
+        <ele>738.750</ele>
+        <time>1970-01-01T02:31:24.083Z</time>
+      </trkpt>
+      <trkpt lat="22.560234100" lon="106.094825700">
+        <ele>668.500</ele>
+        <time>1970-01-01T02:43:39.366Z</time>
+      </trkpt>
+      <trkpt lat="22.564655300" lon="106.138687100">
+        <ele>530.250</ele>
+        <time>1970-01-01T02:54:07.799Z</time>
+      </trkpt>
+      <trkpt lat="22.634491000" lon="106.192047100">
+        <ele>274.000</ele>
+        <time>1970-01-01T03:20:37.075Z</time>
+      </trkpt>
+      <trkpt lat="22.676294300" lon="106.199516300">
+        <ele>197.250</ele>
+        <time>1970-01-01T03:28:52.751Z</time>
+      </trkpt>
+      <trkpt lat="22.665899300" lon="106.253349300">
+        <ele>198.250</ele>
+        <time>1970-01-01T03:34:13.518Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -92,7 +92,7 @@ required_modules:
   {%- elsif vehicle == 'sail' -%}
     {%- assign colors = 'dodgerblue navy' | split: ' ' -%}
   {%- elsif vehicle == 'fossil' -%}
-    {%- assign colors = 'gray black' | split: ' ' -%}
+    {%- assign colors = 'dodgerblue navy' | split: ' ' -%}
   {%- else -%}
     {{ 'Unknown vehicle type: ' | append: vehicle | raise_error }}
   {%- endif -%}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu">
+  <metadata>
+    <desc>File with points/tracks from Locus Map Classic/3.70.15</desc>
+    <time>2025-01-25T13:36:46.284Z</time>
+    <bounds minlat="22.876262700" minlon="105.665741000" maxlat="22.979705800" maxlon="106.051796000"/>
+  </metadata>
+  <trk>
+    <name>07_Pac Bo - LoLo Stilt house</name>
+    <desc>07_Route</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>0000FF</color>
+        <opacity>0.59</opacity>
+        <width>6.0</width>
+        <extensions>
+          <locus:lsColorBase>#960000FF</locus:lsColorBase>
+          <locus:lsWidth>6.0</locus:lsWidth>
+          <locus:lsUnits>PIXELS</locus:lsUnits>
+        </extensions>
+      </line>
+      <locus:activity>transport_car</locus:activity>
+      <locus:rteComputeType>1</locus:rteComputeType>
+    </extensions>
+    <trkseg>
+      <trkpt lat="22.979705800" lon="106.051796000">
+        <ele>340.000</ele>
+      </trkpt>
+      <trkpt lat="22.919963800" lon="106.047317500">
+        <ele>285.750</ele>
+        <time>1970-01-01T00:08:53.688Z</time>
+      </trkpt>
+      <trkpt lat="22.915185900" lon="106.012634300">
+        <ele>257.000</ele>
+        <time>1970-01-01T00:13:16.584Z</time>
+      </trkpt>
+      <trkpt lat="22.939327200" lon="105.958282500">
+        <ele>544.500</ele>
+        <time>1970-01-01T00:28:56.965Z</time>
+      </trkpt>
+      <trkpt lat="22.922451000" lon="105.947128300">
+        <ele>419.250</ele>
+        <time>1970-01-01T00:33:56.356Z</time>
+      </trkpt>
+      <trkpt lat="22.914728200" lon="105.871124300">
+        <ele>695.000</ele>
+        <time>1970-01-01T01:08:02.854Z</time>
+      </trkpt>
+      <trkpt lat="22.932928100" lon="105.847946200">
+        <ele>1067.500</ele>
+        <time>1970-01-01T01:21:30.129Z</time>
+      </trkpt>
+      <trkpt lat="22.911481900" lon="105.811172500">
+        <ele>1014.500</ele>
+        <time>1970-01-01T01:36:11.848Z</time>
+      </trkpt>
+      <trkpt lat="22.940023400" lon="105.749931300">
+        <ele>449.750</ele>
+        <time>1970-01-01T02:00:42.375Z</time>
+      </trkpt>
+      <trkpt lat="22.946655300" lon="105.694442700">
+        <ele>215.250</ele>
+        <time>1970-01-01T02:18:10.246Z</time>
+      </trkpt>
+      <trkpt lat="22.933912300" lon="105.667610200">
+        <ele>234.750</ele>
+        <time>1970-01-01T02:24:49.303Z</time>
+      </trkpt>
+      <trkpt lat="22.918905300" lon="105.677383400">
+        <ele>264.500</ele>
+        <time>1970-01-01T02:28:53.859Z</time>
+      </trkpt>
+      <trkpt lat="22.884967800" lon="105.665741000">
+        <ele>313.750</ele>
+        <time>1970-01-01T02:39:29.740Z</time>
+      </trkpt>
+      <trkpt lat="22.876262700" lon="105.694564800">
+        <ele>765.250</ele>
+        <time>1970-01-01T02:49:14.257Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
